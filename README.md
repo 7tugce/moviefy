@@ -1,4 +1,4 @@
-#Moviefy#
+# Moviefy
 Bu proje, kullanıcıların izleme geçmişine ve tercihlerine dayalı olarak kişiselleştirilmiş film önerileri sunan bir film tavsiye sistemi geliştirmeyi amaçlamaktadır. 
 Proje, Flask web uygulaması, MongoDB, Neo4j, PyTorch ve scikit-learn gibi çeşitli teknolojileri kullanarak veritabanı yönetimi, veri işleme ve model eğitimi işlemlerini gerçekleştirir.
 
